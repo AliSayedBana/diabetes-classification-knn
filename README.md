@@ -48,8 +48,6 @@ and should **NOT** be used for real medical diagnosis.
 
 ##  Screenshots
 
-###  Model Workflow / Plan
-![Model Plan](assets/diabetes_knn_model_plan.png)
 
 ###  Example Case Input
 ![Case](assets/diabetes_knn_case.png)
